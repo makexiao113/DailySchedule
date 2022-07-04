@@ -11,3 +11,9 @@ rust是一个非常严谨而且优秀的语言，在未来一定会大放异彩�
 
 2022年7月3日，自己学习rust已经一周了，这天也是我参加2022年开源操作系统训练营[https://github.com/LearningOS/rust-based-os-comp2022?utm_source=gold_browser_extension] 的第一天，今天在哔哩哔哩上学习了Vector、String、HashMap的相关知识，[https://www.bilibili.com/video/BV1hp4y1k7SV] 在8.1-8.6小节，对于rust的向量，字符串，和hashmap有了一定的了解。
 也在[https://zh.practice.rs/variables.html] 完成了变量绑定与解构的9道相关练习题。
+
+## 2022-07-04 周一
+
+2022年7月4日，仔细看了一下[https://course.rs/basic/base-type/function.html] 的练习数量还有课程数量，有大约30个小结，以目前的学习速度想要在7月30日之前完成rust的学习是不能完成的，所以我需要制定一个学习计划，每天至少学习一个小结，完成一个小结练习作业。今天的任务就是完成4基本类型、5所有权和借用 这两个小结的内容，并完成课后练习。
+
+
