@@ -161,9 +161,9 @@ rust是一个非常严谨而且优秀的语言，在未来一定会大放异彩�
 | clippy                 | n/a           |               |
 | conversions            | n/a           |               |
 
-  ## 2022-07-19 周二
+## 2022-07-19 周二
     今天把剩下的rustlings的练习完成了，感觉rustlings涉及的练习面还是很广泛全面的，但是一些高级的用法或者知识点考察得并不是很全面，但是这对于我来说已经很难了，能够完成rustlings的练习已经很不容易了，总之这样的rustlings练习对我很有用，而且这次的rustlings练习更新了advanced errors练习，教会了我们如何构造自己的error，也有一些trait实现的相关方法方式。接下来我就要开始自己的操作系统练习啦！加油！坚持下去！
-    | Exercise               | Book Chapter |    Done      |
+| Exercise               | Book Chapter |    Done      |
 |------------------------|--------------|--------------|
 | variables              | §3.1          |<ul><li>- [x] </li></ul>|
 | functions              | §3.3          |<ul><li>- [x] </li></ul>|
@@ -185,4 +185,4 @@ rust是一个非常严谨而且优秀的语言，在未来一定会大放异彩�
 | macros                 | §19.6         |      <ul><li>- [x] </li></ul>         |
 | clippy                 | n/a           |      <ul><li>- [x] </li></ul>         |
 | conversions            | n/a           |      <ul><li>- [x] </li></ul>         |
-| advanced_errors            | n/a           |      <ul><li>- [x] </li></ul>         |
+| advanced_errors        | n/a           |      <ul><li>- [x] </li></ul>         |
